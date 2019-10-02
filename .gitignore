@@ -1,0 +1,8 @@
+# yang ada di dalam file ini adalah file dan folder yang tidak di masukan ke git
+
+bin
+obj
+.vscode
+.DS_Store
+appsettings.json
+*.db
